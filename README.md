@@ -1,15 +1,15 @@
-### Merhaba, Ben Alperen! 👋
+### Hi there, I'm Alperen! 👋
 
-Lefke Avrupa Üniversitesi'nde Yazılım Mühendisliği okuyan, Backend dünyasına meraklı bir geliştirici adayıyım.
+I am a Software Engineering student at the **European University of Lefke**, passionate about building a career in the **Backend** world.
 
-- 🎓 **Eğitim:** Lefke Avrupa Üniversitesi - Yazılım Mühendisliği (2. Sınıf)
-- 💻 **Odak Alanım:** .NET Ekosistemi, RESTful API'ler ve Backend Mimarisi
-- 🌱 **Şu an ne öğreniyorum:** ASP.NET Core Web API derinlikleri ve Clean Architecture
-- ⚡ **Hobim:** Temiz kod yazmak ve yeni teknolojileri keşfetmek.
+- 🎓 **Education:** European University of Lefke - Software Engineering (2nd Year)
+- 💻 **Focus:** .NET Ecosystem, RESTful APIs, and Backend Architecture
+- 🌱 **Currently Learning:** Advanced ASP.NET Core Web API & Clean Architecture
+- ⚡ **Motto:** Always striving for clean and scalable code.
 
 ---
 
-### 🛠️ Yeteneklerim & Araçlarım
+### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -19,10 +19,4 @@ Lefke Avrupa Üniversitesi'nde Yazılım Mühendisliği okuyan, Backend dünyas�
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
 
-### 📊 GitHub İstatistiklerim
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=taseralp&show_icons=true&theme=radical&hide_border=true" alt="Alperen's Stats" />
-</p>
